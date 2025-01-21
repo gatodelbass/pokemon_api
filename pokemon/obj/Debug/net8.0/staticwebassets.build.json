@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "R/BDmFzhX+7jxWIalp81r3ypp8VV/UT8kZc+/JFEUFM=",
+  "Source": "pokemon",
+  "BasePath": "_content/pokemon",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
